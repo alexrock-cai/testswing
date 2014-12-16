@@ -9,7 +9,6 @@ import java.awt.event.ItemEvent;
 import java.awt.event.ItemListener;
 
 
-
 import javax.swing.*;
 
 import com.amphenol.agis.czbp.util.SwingUtils;
